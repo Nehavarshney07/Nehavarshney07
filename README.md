@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Neha Upadhyay 👋</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Neha Varshney 👋</h1>
 <h3 align="center">Date with programming, from India </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nehavarshney07" alt="Nehavarshney07" /> </p>
