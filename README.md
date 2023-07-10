@@ -1,12 +1,12 @@
 ### # Hi there👋! I'm Neha Varshney 😇
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nehavarshney" alt="Neha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nehavarshney" alt="Neha varshney" /> </p>
 
 _**LATEST UPDATE:**_ <i>Learning web development , react &  node :) </i>
 
 - 👨‍🎓 19-year-old computer science engineer.
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 📱 Web App developer.
-- 😍 Loves to write blogs and record videos for youtube ❤️
+- 📱 WebApp developer.
+- 😍 Loves to write blogs❤️
 
 **Connect with me** 👇
 
